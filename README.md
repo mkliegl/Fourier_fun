@@ -57,7 +57,7 @@ be found in [this Python script](swap_waf_mag_phase_stft.py).
 The results are very window-size-dependent and are much harder to describe
 than in the case of images,
 but are still quite interesting and fun. I put some short examples in
-the [speech][speech/] and [music][music/] folders.
+the [speech](speech/) and [music](music/) folders.
 
 
 ## Audio sources and processing
