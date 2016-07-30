@@ -19,6 +19,11 @@ by different people. The earliest reference I could find is
 this [Berkeley course][berkeleycourse] from 1997, taught by
 S. Shankar Sastry.
 
+**Update:** After looking some more, I believe the original source is this: A. V. Oppenheim and J. S. Lim, "The importance of phase in signals," in *Proceedings of the IEEE*, vol. 69, no. 5, pp. 529-541, May 1981.
+doi: [10.1109/PROC.1981.12022](http://dx.doi.org/10.1109/PROC.1981.12022) (paywall)
+
+There are some earlier papers that look at reconstructing images from phase and unit magnitude, but this seems to be the first that does the swapping.
+
 
 ## Image sources and processing
 
